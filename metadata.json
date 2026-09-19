@@ -1,0 +1,6 @@
+{
+  "name": "Divine Dash 3D: Ganpati Idol Quest",
+  "description": "A story-driven Ganesh Chaturthi 3D adventure where you collect sacred idol pieces across illuminated festival streets to assemble Lord Ganesha's idol for the Grand Aarti ceremony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
